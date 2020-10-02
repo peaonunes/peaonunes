@@ -15,3 +15,5 @@
 * <a href="https://peaonunes.com/blog/feature-flag-approach-with-graphql-and-react-3l5o" target="_blank" rel="noopener noreferrer">Feature Flag approach with GraphQL and React 🕹</a>
 
 More posts on <a href="https://peaonunes.com/blog" target="_blank" rel="noopener noreferrer">https://peaonunes.com/blog</a>.
+
+[![Follor me on Twitter](https://img.shields.io/twitter/follow/peaonunes?style=social)](https://twitter.com/peaonunes)
